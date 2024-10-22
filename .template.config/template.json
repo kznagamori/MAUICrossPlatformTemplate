@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "kznanamori",
+  "classifications": [ "Common", "MAUI" ],
+  "identity": "kznagamori.MAUIxplat",
+  "name": "MAUI Cross Platform Application",
+  "shortName": "maui-xplat",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "___PROJECTNAME___",
+  "symbols": {
+    "type": "generated",
+    "generator": "name",
+    "replaces": "___PROJECTNAME___",
+    "defaultValue": "MyProject",
+    "description": "The name of the project"
+  }
+}
